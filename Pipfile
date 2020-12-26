@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.douban.com/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+rejson = "*"
+ipython = "*"
+pyvmomi = "*"
+xlsx2html = "*"
+xhtml2pdf = "*"
+xlwt = "*"
+xls2xlsx = "*"
+dominate = "*"
+pandas = "*"
+reportlab = "*"
+drymail = "*"
+attrs = "*"
+aioredis = "*"
+cattrs = "*"
+marshmallow = "*"
+scipy = "*"
+prettytable = "*"
+
+[requires]
+python_version = "3.8"
